@@ -1,0 +1,9 @@
+TODO:
+
+1) Make an initiator script, runs once per client
+2) Make checker script to see whether there are any updates, runs 2 or 3 times a day (do appropriate actions when reply has been made), currently checks a minute after sending first email 
+3) Context-aware reminders, analysis and summary of responses (based off of proposal for specified response)
+4) Logging module for debugging and finding ‘failed’ jobs
+5) Clean code and move functions to appropriate files
+6) Manager file to add, delete and check email sequence (do everything from from one script)
+8) Integrated google calendar API
